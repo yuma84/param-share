@@ -51,7 +51,7 @@
     "nodemon": "^1.18.9",
     "prettier": "^1.19.1",
     "stylelint": "^10.1.0",
-    "ts-jest": "^25.0.0",
+    "ts-jest": "^26.2.0",
     "vue-jest": "^4.0.0-0"
   }
 }
